@@ -1,4 +1,4 @@
 # Antonym-Dictionary
 University project 
 Antonym dictionary
-PyQt5 + bs4 + requests
+Based on Python with PyQt5 + bs4 + requests
