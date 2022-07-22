@@ -1,3 +1,4 @@
 # Antonym-Dictionary
-University project of desktop antonym dictionary
-Based on PyQt5
+University project 
+Antonym dictionary
+PyQt5 + bs4 + requests
